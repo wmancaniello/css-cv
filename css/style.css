@@ -1,0 +1,10 @@
+/* HEADER */
+header {
+    background-color: lightgrey;
+    text-align: center;
+    border-bottom: 2px solid orange;
+}
+
+.header-image {
+    width: 100px;
+}
